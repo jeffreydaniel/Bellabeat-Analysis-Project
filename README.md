@@ -135,7 +135,7 @@ Checking the merged_df:
 
 ### Findings:
 
--- Users logged **8,177** steps on average daily. An adult female is to aim for at least 10,000 steps (8 kilometres) to benefit from health and fitness improvement. (Source: Medical News Today)
+- Users logged **8,177** steps on average daily. An adult female is to aim for at least 10,000 steps (8 kilometres) to benefit from health and fitness improvement. (Source: Medical News Today)
 - Users burned an average of **2,329** calories per day. There is a positive correlation between steps taken and calories burnt.
 - Out of **1218** Total minutes, **991** minutes were spent inactive (Sedentary). Approximately, 228 active minutes were spent.
 
